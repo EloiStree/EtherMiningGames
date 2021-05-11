@@ -5,6 +5,12 @@ Find us on Discord:
 https://discord.gg/sQ3vBw7K  
 
 
+## Share Link:
+Discord server: https://eloistree.page.link/discordofethermine
+Wiki & welcome page: https://eloistree.page.link/ethermine
+Where to mine: https://ethermine.org/miners/60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039/dashboard
+Ehterieum interaction Wallet:[60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039](https://etherscan.io/address/0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039)
+
 
 
 ## How to play ?

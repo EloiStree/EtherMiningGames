@@ -1,6 +1,6 @@
 # Ether Mining Games
-This repository is the welcome page of an experiment.
-Using Ethereum and the mining of it as a source of game mechanics.   
+This repository is the welcome page of an experiment.  
+Using Ethereum and the mining of it as a source of game mechanics.     
   
 Find us on [Discord](https://eloistree.page.link/discordofethermine  )
 
@@ -63,21 +63,39 @@ So more people pay to disrupte the game, more the reward is hight.
 
 ### What about Farmer and Streamer
 
-As soon as we can, we will add to the game some highlight of people with hight mining power. 
-They will be highlighted to give other players the ability to make cohalition against them.
+As soon as we can, we will add to the game some highlight of people with hight mining power.  
+They will be highlighted to give other players the ability to make cohalition against them.  
 
-Farmer and streamer are 100% welcome.
-But we need to be fair to the casual player that only own one computer:
-As the aim of this game is to help people without access to ether to win ether.
+Farmer and streamer are 100% welcome.  
+But we need to be fair to the casual player that only own one computer:  
+As the aim of this game is to help people without access to ether to win ether.  
 
-PS: Don't forget that a miner is also more money to win and quicker end game for everybody.
+PS: Don't forget that a miner is also more money to win and quicker end game for everybody.  
 
 ### What about cheater
-No game is protected against hacker and cheater... 
-- The game is hosted localy -> Low probability
-- There is only one lobby -> Ping and admin and we will ban/fix as soon as possible.
-- The game is save every minute on a Git repository -> We can pause the game or restore if cheat is detected and 100% verify
-- 
+
+No game is protected against hacker and cheater...   
+- The game is hosted localy -> Low probability  
+- There is only one lobby -> Ping and admin and we will ban/fix as soon as possible.  
+- The game is save every minute on a Git repository -> We can pause the game, and restore it, if cheat is detected and 100% verify  
+
+
+### Reminder: Experiment
+
+This project is an experiment.   
+I have not idea of where it is going to be and evolve.     
+At any time, the project can be stop for hundred of reasons:  
+- twitch banning my game
+- ether crashing
+- etherming.org crashing
+- Belgium justice
+- Ehtereum being ban by Belgium
+- Me having heath issue
+- Me beeing bored of the concept
+- ...
+
+(If it happens and there are more that  0.1ETH Ethermine.org the wallet, it will be split to the last top1 team.)
+
  
 
 

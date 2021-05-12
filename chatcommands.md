@@ -10,6 +10,9 @@ Good to know:
 - Troup in defense generate small amount of troup
 
 
+- [x] You can use it in current version
+- [ ] Is not implemented yet.
+- [?]  Humm
 ?$ == the command is not implemented in the current game but I want to test it in future version.
 
 ## CMDs

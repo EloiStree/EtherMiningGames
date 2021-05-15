@@ -1,0 +1,11 @@
+# Country
+
+# Capital
+
+# Town 
+Bruxelles 0.5 0.5
+London 0.5 0.5
+Tokyo 0.5 0.5
+
+# Alias
+Area51
